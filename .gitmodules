@@ -1,0 +1,3 @@
+[submodule "pcf-pipelines"]
+	path = pcf-pipelines
+	url = https://github.com/pivotal-cf/pcf-pipelines.git
